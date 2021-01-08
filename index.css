@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+}
+
+#card{
+    border-radius: 2em;
+}
+
+#numero{
+   font-size: 210px;
+   margin-top: 70px;
+
+}
